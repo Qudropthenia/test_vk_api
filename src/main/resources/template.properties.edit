@@ -1,0 +1,7 @@
+serverHost=server host
+serverPort=server port
+clientId=app id
+clientSecret=app secret
+
+# В названии файла удалить .edit
+# Ну и подставить соотв. значения
